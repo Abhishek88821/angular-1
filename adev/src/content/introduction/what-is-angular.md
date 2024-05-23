@@ -8,7 +8,7 @@ Angular is a web framework that empowers developers to build fast, reliable appl
 Maintained by a dedicated team at Google, Angular provides a broad suite of tools, APIs, and
 libraries to simplify and streamline your development workflow. Angular gives you
 a solid platform on which to build fast, reliable applications that scale with both the size of
-your team and the size of your codebase.
+your team and the size of your codebase..
 
 **Want to see some code?** Jump over to our [Essentials](essentials) for a quick overview of
 what it's like to use Angular, or get started in the [Tutorial](tutorials/learn-angular) if you
